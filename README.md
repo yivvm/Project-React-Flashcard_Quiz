@@ -27,10 +27,10 @@ This is a simple React application that generates flashcards based on trivia que
 - axios for API requests
 - HTML/CSS
 
-## Credits
+![results](./src/images/results.png)
+![categories](./src/images/categories.png)
+
+## Source
 
 - This project uses the [Open Trivia Database API](https://opentdb.com/) to fetch trivia questions.
 - Source: https://youtu.be/hEtZ040fsD8?si=k07Lj9WQCuDp0gQw
-
-![results](./src/images/results.png)
-![categories](./src/images/categories.png)
