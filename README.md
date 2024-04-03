@@ -1,6 +1,6 @@
-# Flashcard App
+# Flashcard Quiz Application
 
-This is a simple React application that generates flashcards based on trivia questions fetched from the [Open Trivia Database API](https://opentdb.com/).
+This is a React application that generates flashcard quiz based on trivia questions fetched from the [Open Trivia Database API](https://opentdb.com/).
 
 ## Features
 
